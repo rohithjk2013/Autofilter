@@ -1,4 +1,5 @@
-# Autofilter
+Data Processor App
+
 The Data Processor App is a user-friendly tool for efficient data processing and filtering, utilizing a graphical user interface built with Tkinter. It allows users to upload CSV or Excel files, select specific columns for processing, apply various filtering techniques, and visualize the results.
 Key Features:
 
@@ -42,30 +43,37 @@ Key Features:
         The app includes author information: Rohith Jayaraman Krishnamurthy from CRN Lab UBC.
 
 Usage:
+Start the Application:
 
-    Start the Application:
-        Run the script to open the Tkinter window.
+    Run the script to open the Tkinter window.
 
-    Upload a File:
-        Click "Upload File" to select and upload a CSV or Excel file.
+Upload a File:
 
-    Select Columns:
-        Use the listbox to select columns from the uploaded data.
+    Click "Upload File" to select and upload a CSV or Excel file.
 
-    Choose a Filter:
-        Select a filter from the dropdown menu.
+Select Columns:
 
-    Enter Window Size:
-        Specify the window size for the filter.
+    Use the listbox to select columns from the uploaded data.
 
-    Process the Data:
-        Click "Process Data" to apply the filter to the selected columns.
+Choose a Filter:
 
-    View Results:
-        The original and filtered data are plotted and displayed within the app.
+    Select a filter from the dropdown menu.
 
-    Save Processed Data:
-        Click "Save Processed Data" to save the results to an Excel file.
+Enter Window Size:
+
+    Specify the window size for the filter.
+
+Process the Data:
+
+    Click "Process Data" to apply the filter to the selected columns.
+
+View Results:
+
+    The original and filtered data are plotted and displayed within the app.
+
+Save Processed Data:
+
+    Click "Save Processed Data" to save the results to an Excel file.
 
 Benefits:
 
